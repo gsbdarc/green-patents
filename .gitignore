@@ -1,0 +1,7 @@
+**/out/
+**/venv/
+**/data/
+**/model-checkpoint/
+**/lightning_logs/
+**/.ipynb_checkpoints/
+*.csv

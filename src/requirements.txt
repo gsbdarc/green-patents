@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+transformers
+torch
+pytorch-lightning
+torchmetrics
+python-dotenv
+neptune
+openpyxl
+matplotlib
+seaborn
+ipykernel

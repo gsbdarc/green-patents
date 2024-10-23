@@ -1,0 +1,6 @@
+section: 'F'
+year: 2010
+label_file: '/zfs/projects/faculty/jinhwan-green-patents/data/labels/all_patents_CPC_groups.csv'
+pre_2010_data_file: '/zfs/projects/faculty/jinhwan-green-patents/data/raw_data/PreGrant_patent_2001_2010.dta'
+post_2010_data_file: '/zfs/projects/faculty/jinhwan-green-patents/data/raw_data/PreGrant_patent_post_2010.dta'
+sections_file: '/zfs/projects/faculty/jinhwan-green-patents/data/sections/sections-all-pg_pubs.csv'
